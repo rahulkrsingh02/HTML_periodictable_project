@@ -1,2 +1,2 @@
-# HTML_periodictable_project
-This is a HTML periodic table project.
+# React_E-Commerce_Project
+This is a React E-Commerce project.
